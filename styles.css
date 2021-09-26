@@ -1,14 +1,15 @@
 #timer {
-    font-size: large;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin:0 auto;
     width: 100000px;
 }
 
 #controls {
     margin:0 auto;
-    width: 15000px;
+    width: 30000px;
 }
 
 #controls button {
-    font-size: 500px;
+    font-size: 1000px;
 }
