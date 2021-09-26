@@ -1,14 +1,14 @@
 #timer {
     font-size: large;
     margin:0 auto;
-    width: 1000px;
+    width: 100000px;
 }
 
 #controls {
     margin:0 auto;
-    width: 600px;
+    width: 15000px;
 }
 
 #controls button {
-    font-size: 24px;
+    font-size: 500px;
 }
